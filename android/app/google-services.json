@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "968737222181",
+    "project_id": "kharchaai-e46a1",
+    "storage_bucket": "kharchaai-e46a1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968737222181:android:1b79087f6a7d7445b699cc",
+        "android_client_info": {
+          "package_name": "com.kharchaai.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlwr1UqWTY3l41zyfs-2UjT1Z7bpBMvZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
