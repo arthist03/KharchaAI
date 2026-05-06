@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" width="200" height="40">
+  <circle cx="100" cy="20" r="4" fill="#00D4C5">
+    <animate attributeName="r" values="3;6;3" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="20" r="3" fill="#00D4C5" opacity="0.6">
+    <animate attributeName="r" values="2;5;2" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="120" cy="20" r="3" fill="#00D4C5" opacity="0.6">
+    <animate attributeName="r" values="2;5;2" dur="1.5s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="60" cy="20" r="2" fill="#00D4C5" opacity="0.3">
+    <animate attributeName="r" values="1;4;1" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="20" r="2" fill="#00D4C5" opacity="0.3">
+    <animate attributeName="r" values="1;4;1" dur="1.5s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>
