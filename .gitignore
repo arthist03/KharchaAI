@@ -47,6 +47,9 @@ app.*.map.json
 # Environment variables
 .env
 
-# Firebase secrets
+# Firebase secrets (loaded from gitignored assets at runtime)
 firebase_config.json
+assets/json/firebase_config.json
+assets/json/google-services.json
+assets/json/GoogleService-Info.plist
 lib/firebase_options.dart
